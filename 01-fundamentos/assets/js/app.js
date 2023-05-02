@@ -1,6 +1,10 @@
 
 // console.log('Inicio de programa');
 
+// alert('Hola Mundo');
+
+// console.log(miNuevoNombre + " jimenez");
+
 let a   = 10,
     b   = 20,
     c   = 'Hola ',
@@ -33,3 +37,15 @@ let a   = 10,
 // console.log( '%c Mis variables', 'color: blue; font-weight: bold' );
 
 // console.table( { a, b, c, d, x } );
+
+
+c = 'Hola de nuevo';
+
+var miNombre = 'Elliot'; //? guarda en objeto window
+
+//! provlemas con var
+//? 1. remplazar el valor de variables del objeto window
+var outerWidth = 1000000;
+var outerHeight = 600;
+
+let miNuevoNombre = 'Ricardo';
